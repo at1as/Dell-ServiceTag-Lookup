@@ -16,14 +16,14 @@ Enough.
 
 ####This Implementation:
 
-```bash
-$ ruby find.rb <service_tag1> <servicetag2> <servicetag3> ...""
+```
+$ ruby find.rb <service_tag1> <servicetag2> <servicetag3> ...
 $ ruby find.rb 8WL1JX1 4SQ4C42 6BTJDX1
 ```
 
 Example Output:
 
-```bash
+```
 
 Service Tag : 6BTJDX1
 Searching... http://www.dell.com/support/home/ca/en/cabsdt1/product-support/servicetag/6BTJDX1/configuration
